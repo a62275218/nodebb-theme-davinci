@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
+    "id": "nodebb-davinci-theme",
+    "name": "Davinci Theme",
+    "description": "NodeBB Theme for Davinci Project",
     "url": "https://github.com/nodebb/nodebb-theme-quickstart"
 }

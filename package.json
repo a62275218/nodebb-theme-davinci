@@ -1,10 +1,19 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-davinci-theme",
   "version": "0.0.0",
   "description": "Enter a description here",
   "main": "theme.less",
-  "keywords": [
-
-  ],
-  "license": "MIT"
+  "keywords": [],
+  "license": "MIT",
+  "author": {
+    "name": "Rong Lin",
+    "email": "linrong123@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a62275218/nodebb-theme-quickstart"
+  },
+  "bugs": {
+    "url": "https://github.com/a62275218/nodebb-theme-quickstart/issues"
+  }
 }
