@@ -1,7 +1,7 @@
 {
   "name": "nodebb-theme-davinci",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "NodeBB Theme for Davinci Project",
   "main": "theme.less",
   "keywords": [],
   "license": "MIT",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/a62275218/nodebb-theme-quickstart"
+    "url": "https://github.com/a62275218/nodebb-theme-davinci"
   },
   "bugs": {
-    "url": "https://github.com/a62275218/nodebb-theme-quickstart/issues"
+    "url": "https://github.com/a62275218/nodebb-theme-davinci/issues"
   }
 }
