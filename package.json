@@ -15,5 +15,8 @@
   },
   "bugs": {
     "url": "https://github.com/a62275218/nodebb-theme-davinci/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.8.0"
   }
 }
